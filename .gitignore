@@ -3,3 +3,11 @@
 */**/__pycache__/
 *[cC]orrection*
 *.zip
+*_utils
+*.obj
+*.xyz
+*.py
+*.json
+dataset-processing/
+ShapeNames/
+RNADataset/
